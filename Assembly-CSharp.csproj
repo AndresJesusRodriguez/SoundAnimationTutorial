@@ -36,8 +36,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\SoundBehavior.cs" />
-     <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\scripts\SoundBehavior.cs" />
+     <Compile Include="Assets\scripts\NewBehaviourScript.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.26f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
